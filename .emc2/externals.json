@@ -1,0 +1,9 @@
+{
+	"ERDPath": {
+		"Original": "Original",
+		"Clones": [
+			"/Clone1",
+			"/Clone2"
+		]
+	}
+}
