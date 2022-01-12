@@ -1,9 +1,8 @@
 {
-	"ERDPath": {
-		"Original": "Original",
+	"OriginalPath": {
 		"Clones": [
-			"/Clone1",
-			"/Clone2"
+			"Clone1",
+			"Clone2"
 		]
 	}
 }
